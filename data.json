@@ -1,0 +1,28 @@
+{
+  "data" : [
+    {
+      "measurement" : "sensor",
+      "time" : 0,
+      "fields" : {
+        "pressio": 200.3,
+        "humitat": 440.2
+      }
+    },
+    {
+      "measurement" : "sensor",
+      "time" : 0,
+      "fields" : {
+        "pressio": 110.3,
+        "humitat": 500.42
+      }
+    },
+    {
+      "measurement" : "sensor",
+      "time" : 0,
+      "fields" : {
+        "pressio": 1500.31,
+        "humitat": 400.21
+      }
+    }
+  ]
+}
