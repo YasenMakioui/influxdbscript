@@ -1,0 +1,8 @@
+{
+  "measurement" : "sensor",
+  "fields" : {
+    "pressio": 1500.31,
+    "humitat": 400.21,
+    "temperatura": 400
+  }
+}

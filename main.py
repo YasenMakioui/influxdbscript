@@ -7,29 +7,28 @@ import json
 from influxdb import InfluxDBClient
 from datetime import datetime
 
-
-def data_payload():
-    json_data = sys.argv[1]
-    file = open(json_data, "r")
-    content = file.read()
-    payload = json.loads(content)
-    for i in payload["data"]:
-        i['time'] = datetime.now()
-    file.close()
-    return payload
+client = InfluxDBClient('localhost', 8086, 'admin', 'Password1', 'mydb')
 
 
-def insert_data(payload):
-    client = InfluxDBClient('localhost', 8086, 'admin', 'Password1', 'mydb')
-    client.create_database('mydb')
-    client.switch_database('mydb')
-    client.write_points(payload)
+def insert_data(data, mode):
+    if mode == "unique":
+        client.write_points([data])
+    elif mode == "compound":
+        for i in data['data']:
+            client.write_points([i])
+
+
+def get_data():
+    with open(sys.argv[1]) as json_file:
+        data = json.load(json_file)
+        if "data" in data.keys():
+            insert_data(data, "compound")
+        else:
+            insert_data(data, "unique")
 
 
 def main():
-    payload = data_payload()
-    for i in payload['data']:
-        insert_data([i])
+    get_data()
 
 
 if __name__ == '__main__':

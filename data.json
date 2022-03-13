@@ -2,26 +2,26 @@
   "data" : [
     {
       "measurement" : "sensor",
-      "time" : 0,
       "fields" : {
         "pressio": 200.3,
-        "humitat": 440.2
+        "humitat": 440.2,
+        "temperatura": 40
       }
     },
     {
       "measurement" : "sensor",
-      "time" : 0,
       "fields" : {
         "pressio": 110.3,
-        "humitat": 500.42
+        "humitat": 500.42,
+        "temperatura": 40
       }
     },
     {
       "measurement" : "sensor",
-      "time" : 0,
       "fields" : {
         "pressio": 1500.31,
-        "humitat": 400.21
+        "humitat": 400.21,
+        "temperatura": 40
       }
     }
   ]
