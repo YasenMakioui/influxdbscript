@@ -19,7 +19,7 @@
     {
       "measurement" : "sensor",
       "fields" : {
-        "pressio": 1500.31,
+        "pressio": 13300.31,
         "humitat": 400.21,
         "temperatura": 40
       }

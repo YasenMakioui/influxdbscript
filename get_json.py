@@ -9,6 +9,7 @@ data = {
 
 }
 
+
 def get_data():
     result = client.query("select * from sensor")
     for set in result:
@@ -17,8 +18,6 @@ def get_data():
         with open(sys.argv[1], 'w') as json_file:
             json_file.write(json_data)
 
-        #for values in set:
-        #    print(values)
 
 if __name__ == '__main__':
     get_data()

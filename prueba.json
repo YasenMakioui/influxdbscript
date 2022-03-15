@@ -119,6 +119,30 @@
             "humitat": 400.21,
             "pressio": 1500.31,
             "temperatura": 400
+        },
+        {
+            "time": "2022-03-14T15:54:42.635043Z",
+            "humitat": 400.21,
+            "pressio": 1500.31,
+            "temperatura": 400
+        },
+        {
+            "time": "2022-03-14T15:54:54.773266Z",
+            "humitat": 440.2,
+            "pressio": 200.3,
+            "temperatura": 40
+        },
+        {
+            "time": "2022-03-14T15:54:54.780202Z",
+            "humitat": 500.42,
+            "pressio": 110.3,
+            "temperatura": 40
+        },
+        {
+            "time": "2022-03-14T15:54:54.786052Z",
+            "humitat": 400.21,
+            "pressio": 13300.31,
+            "temperatura": 40
         }
     ]
 }
