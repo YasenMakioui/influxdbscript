@@ -12,10 +12,15 @@ data = {
 
 def get_data():
     result = client.query("select * from sensor")
-    for set in result:
-        data["data"] = set
+    for data_set in result:
+        data["data"] = data_set
         json_data = json.dumps(data, indent=4)
-        with open(sys.argv[1], 'w') as json_file:
+
+        if len(sys.argv) > 1:
+            file = sys.argv[1]
+        else:
+            file = "sensor_data.json"
+        with open(file, 'w') as json_file:
             json_file.write(json_data)
 
 

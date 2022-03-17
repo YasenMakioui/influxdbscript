@@ -1,8 +1,8 @@
 {
     "measurement" : "sensor",
     "fields": {
-      "pressio": 150000.31,
-      "humitat": 400.21,
+      "presion": 150000.31,
+      "humedad": 400.21,
       "temperatura": 400
     }
 }

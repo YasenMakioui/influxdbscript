@@ -3,24 +3,24 @@
     {
       "measurement" : "sensor",
       "fields" : {
-        "pressio": 200.3,
-        "humitat": 440.2,
+        "presion": 200.3,
+        "humedad": 440.2,
         "temperatura": 40
       }
     },
     {
       "measurement" : "sensor",
       "fields" : {
-        "pressio": 110.3,
-        "humitat": 500.42,
+        "presion": 1000.0,
+        "humedad": 500.42,
         "temperatura": 40
       }
     },
     {
       "measurement" : "sensor",
       "fields" : {
-        "pressio": 13300.31,
-        "humitat": 400.21,
+        "presion": 13300.31,
+        "humedad": 400.21,
         "temperatura": 40
       }
     }

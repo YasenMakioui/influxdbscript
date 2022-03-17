@@ -1,0 +1,627 @@
+<?xml version="1.0" ?>
+<data>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.361253Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.379081Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.385241Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.391849Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.398590Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.404916Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.412069Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.418828Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.425726Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.432253Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.481495Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.489111Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.495963Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.504324Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.511714Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.518386Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.525278Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.531584Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.581545Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.588080Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.594436Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.600669Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.606877Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.612987Z</time>
+		<humedad>400.21</humedad>
+		<presion>13300.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.619004Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:41.625546Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.405638Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.412324Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.1</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.418711Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.424908Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.431443Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.438211Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.444402Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.450510Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.456717Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.463211Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.511719Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.520643Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.527623Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.533884Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.540530Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.547738Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.554162Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.561017Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.568124Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.574081Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.581187Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.587753Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.594059Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.600332Z</time>
+		<humedad>400.21</humedad>
+		<presion>13300.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.606232Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:18:51.612176Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.922455Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.928861Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.1</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.935319Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.941510Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.947762Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.954275Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:42.961713Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.011906Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.020846Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.030541Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.037471Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.043779Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.049867Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.055486Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.061445Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.067553Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.073951Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.080157Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.086142Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.092217Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.141950Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.151684Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.158718Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.165793Z</time>
+		<humedad>400.21</humedad>
+		<presion>13300.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.172497Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:20:43.178923Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.738426Z</time>
+		<humedad>444403434.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.745066Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.1</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.751659Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.758147Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>20.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.764544Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.771114Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.777607Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.784210Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.790494Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.796940Z</time>
+		<humedad>440.2</humedad>
+		<presion>1.5</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.803720Z</time>
+		<humedad>4402.2</humedad>
+		<presion>444.6</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.810425Z</time>
+		<humedad>44440.2</humedad>
+		<presion>1.3</presion>
+		<temperatura>0.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.816751Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.822631Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.829466Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.835920Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.842463Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.891562Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.897888Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.904225Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.910494Z</time>
+		<humedad>400.21</humedad>
+		<presion>1500.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.916537Z</time>
+		<humedad>440.2</humedad>
+		<presion>200.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.922874Z</time>
+		<humedad>500.42</humedad>
+		<presion>110.3</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.928938Z</time>
+		<humedad>400.21</humedad>
+		<presion>13300.31</presion>
+		<temperatura>40.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.935276Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+	<mesura nom="sensor">
+		<time>2022-03-17T18:21:44.941523Z</time>
+		<humedad>400.21</humedad>
+		<presion>150000.31</presion>
+		<temperatura>400.0</temperatura>
+	</mesura>
+</data>
