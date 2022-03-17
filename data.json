@@ -2,7 +2,7 @@
   "data" : [
     {
       "measurement" : "sensor",
-      "time": 1657529363376039000,
+      "time": "2022-03-17T16:02:43.379366Z",
       "fields" : {
         "presion": 200.3,
         "humedad": 440.2,
@@ -11,7 +11,7 @@
     },
     {
       "measurement" : "sensor",
-      "time": 1647529363376039000,
+      "time": "2022-03-17T16:02:43.329366Z",
       "fields" : {
         "presion": 1000.0,
         "humedad": 500.42,
@@ -20,10 +20,28 @@
     },
     {
       "measurement" : "sensor",
-      "time": 1677529363376039000,
+      "time": "2022-03-17T16:02:43.319366Z",
       "fields" : {
         "presion": 13300.31,
         "humedad": 400.21,
+        "temperatura": 40.0
+      }
+    },
+    {
+      "measurement" : "sensor",
+      "time": "2022-03-17T16:02:42.379366Z",
+      "fields" : {
+        "presion": 200.3,
+        "humedad": 440.2,
+        "temperatura": 40.0
+      }
+    },
+    {
+      "measurement" : "sensor",
+      "time": "2022-03-17T16:02:41.379366Z",
+      "fields" : {
+        "presion": 200.3,
+        "humedad": 440.2,
         "temperatura": 40.0
       }
     }

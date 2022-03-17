@@ -14,7 +14,7 @@ Se puede insertar en dos formatos, ambos se pueden ver en los .json de ejemplo "
 
 Ejecutar el script y pasar como parametro el nombre del archivo que contiene los datos
 ```bash
-$ python3 insert_xml.py data.json
+$ python3 insert_xml.py data.xml
 ```
 
 ### get_json
