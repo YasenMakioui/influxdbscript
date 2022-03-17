@@ -1,5 +1,17 @@
 # influxdbscript
 
+## Iniciar el entorno con docker
+````bash
+$ docker-compose up
+````
+Comprobamos si se esta ejecutando
+````bash
+$ docker ps
+````
+Los datos de usuario, contraseña, etc... estan en archivo docker-compose.yml
+### En otros entornos
+
+Aplicar cambios de usuario, contraseña y base de datos en los scripts 
 ## Como se usa
 
 ### insert_json
