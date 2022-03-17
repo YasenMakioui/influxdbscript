@@ -18,13 +18,21 @@ def get_xml():
                 ET.SubElement(doc, field).text = str(dict[field])
 
     archivo = ET.ElementTree(data)
-    archivo.write(sys.argv[1])
 
-    dom = xml.dom.minidom.parse(sys.argv[1])
+    file = ""
+
+    if len(sys.argv) > 1:
+        file = sys.argv[1]
+    else:
+        file = "sensor_data.xml"
+
+    archivo.write(file)
+
+    dom = xml.dom.minidom.parse(file)
     pretty_xml_as_string = dom.toprettyxml()
 
-    with open(sys.argv[1], "w") as file:
-        file.write(pretty_xml_as_string)
+    with open(file, "w") as f:
+        f.write(pretty_xml_as_string)
 
 
 if __name__ == '__main__':
