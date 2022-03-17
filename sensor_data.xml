@@ -1,813 +1,111 @@
 <?xml version="1.0" ?>
 <data>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:15.671057Z</time>
-		<humedad>64.9185783153268</humedad>
-		<presion>17.3667683072957</presion>
-		<temperatura>21.1593264321993</temperatura>
+		<time>2022-03-17T23:13:10.246344Z</time>
+		<humedad>47.318836363514585</humedad>
+		<presion>82.3323969463726</presion>
+		<temperatura>88.46247180027574</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:16.699042Z</time>
-		<humedad>16.882708755965503</humedad>
-		<presion>65.29437553325096</presion>
-		<temperatura>37.734321041467986</temperatura>
+		<time>2022-03-17T23:13:11.278222Z</time>
+		<humedad>43.35612395182199</humedad>
+		<presion>56.819043778074075</presion>
+		<temperatura>42.17443790583572</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:17.711058Z</time>
-		<humedad>94.80435897858493</humedad>
-		<presion>5.806733993076174</presion>
-		<temperatura>80.6696892915207</temperatura>
+		<time>2022-03-17T23:13:12.299067Z</time>
+		<humedad>46.31490034179657</humedad>
+		<presion>1.127739235081615</presion>
+		<temperatura>50.31017266771571</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:18.727151Z</time>
-		<humedad>70.69471031400082</humedad>
-		<presion>77.496279993997</presion>
-		<temperatura>18.51108301680653</temperatura>
+		<time>2022-03-17T23:13:13.312300Z</time>
+		<humedad>13.33589955759833</humedad>
+		<presion>72.30540609038405</presion>
+		<temperatura>68.6938035429816</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:19.740936Z</time>
-		<humedad>74.3502483443608</humedad>
-		<presion>16.73627300339374</presion>
-		<temperatura>91.95251008274026</temperatura>
+		<time>2022-03-17T23:13:14.323255Z</time>
+		<humedad>71.3324712796282</humedad>
+		<presion>28.537889127024172</presion>
+		<temperatura>28.605024990025953</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:20.800064Z</time>
-		<humedad>50.70072937745063</humedad>
-		<presion>67.52523523952311</presion>
-		<temperatura>51.11703871214656</temperatura>
+		<time>2022-03-17T23:13:15.385304Z</time>
+		<humedad>2.093611766368497</humedad>
+		<presion>59.62438313505598</presion>
+		<temperatura>86.4726850429447</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:21.813053Z</time>
-		<humedad>34.88911214733079</humedad>
-		<presion>94.2194751662313</presion>
-		<temperatura>91.74945014311689</temperatura>
+		<time>2022-03-17T23:13:16.399207Z</time>
+		<humedad>95.50794558350292</humedad>
+		<presion>30.1019917654641</presion>
+		<temperatura>30.54151575494005</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:22.825159Z</time>
-		<humedad>72.46113526836022</humedad>
-		<presion>14.138001853082017</presion>
-		<temperatura>36.06962772444901</temperatura>
+		<time>2022-03-17T23:13:17.415472Z</time>
+		<humedad>88.5027915028166</humedad>
+		<presion>55.945538470758315</presion>
+		<temperatura>8.575622046359754</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:23.882097Z</time>
-		<humedad>41.78279096560624</humedad>
-		<presion>11.912229341891623</presion>
-		<temperatura>19.804286544239424</temperatura>
+		<time>2022-03-17T23:13:18.473208Z</time>
+		<humedad>24.21619850724783</humedad>
+		<presion>56.90027986616515</presion>
+		<temperatura>42.30518290661159</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:24.894034Z</time>
-		<humedad>71.20084300346423</humedad>
-		<presion>0.6083984390487629</presion>
-		<temperatura>46.00981958875887</temperatura>
+		<time>2022-03-17T23:13:19.492005Z</time>
+		<humedad>62.5008495265879</humedad>
+		<presion>7.280797078845735</presion>
+		<temperatura>13.407558560531651</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:25.916457Z</time>
-		<humedad>4.903644980173771</humedad>
-		<presion>81.52509464132271</presion>
-		<temperatura>42.928005206509376</temperatura>
+		<time>2022-03-17T23:13:20.505611Z</time>
+		<humedad>63.55202622822809</humedad>
+		<presion>87.46959062513568</presion>
+		<temperatura>42.01750008574824</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:26.981427Z</time>
-		<humedad>21.230851496500758</humedad>
-		<presion>97.74857822084539</presion>
-		<temperatura>75.80391821953411</temperatura>
+		<time>2022-03-17T23:13:21.566107Z</time>
+		<humedad>1.9549129077197525</humedad>
+		<presion>97.32581174509748</presion>
+		<temperatura>44.70663853684572</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:27.996268Z</time>
-		<humedad>80.30114822407322</humedad>
-		<presion>44.31231373012386</presion>
-		<temperatura>14.045343851900826</temperatura>
+		<time>2022-03-17T23:13:22.579259Z</time>
+		<humedad>28.695654351001153</humedad>
+		<presion>65.29582121664339</presion>
+		<temperatura>95.37024932417654</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:29.010367Z</time>
-		<humedad>88.84776648245153</humedad>
-		<presion>80.74689560463177</presion>
-		<temperatura>46.84431059498807</temperatura>
+		<time>2022-03-17T23:13:23.592209Z</time>
+		<humedad>81.43983632640882</humedad>
+		<presion>11.6598770199402</presion>
+		<temperatura>62.25875413629436</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:30.074132Z</time>
-		<humedad>21.709758126574165</humedad>
-		<presion>43.951437703212946</presion>
-		<temperatura>38.388097480513295</temperatura>
+		<time>2022-03-17T23:13:24.654564Z</time>
+		<humedad>76.1603488634407</humedad>
+		<presion>72.80807906758395</presion>
+		<temperatura>44.78075920047508</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:31.086225Z</time>
-		<humedad>41.28999494205823</humedad>
-		<presion>72.39475177795495</presion>
-		<temperatura>96.4858195532453</temperatura>
+		<time>2022-03-17T23:13:25.663814Z</time>
+		<humedad>17.593410857362624</humedad>
+		<presion>53.246634771403414</presion>
+		<temperatura>16.40232157292827</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:32.099286Z</time>
-		<humedad>0.5037020003745285</humedad>
-		<presion>21.821683403755053</presion>
-		<temperatura>26.806713925184646</temperatura>
+		<time>2022-03-17T23:13:26.677522Z</time>
+		<humedad>1.8335289661598475</humedad>
+		<presion>60.88016535142089</presion>
+		<temperatura>87.75604494297791</temperatura>
 	</mesura>
 	<mesura nom="sensor">
-		<time>2022-03-17T22:29:33.148105Z</time>
-		<humedad>48.07347192284662</humedad>
-		<presion>88.47302422646658</presion>
-		<temperatura>39.02050316820319</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:34.161822Z</time>
-		<humedad>49.27300803518452</humedad>
-		<presion>27.84370986215048</presion>
-		<temperatura>15.734014743707203</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:35.174343Z</time>
-		<humedad>17.959541645190935</humedad>
-		<presion>59.541327320826284</presion>
-		<temperatura>85.63554608762145</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:36.240666Z</time>
-		<humedad>94.00087433015642</humedad>
-		<presion>99.00664219518004</presion>
-		<temperatura>63.27196201622019</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:37.256608Z</time>
-		<humedad>81.93766366202094</humedad>
-		<presion>87.66990436359386</presion>
-		<temperatura>88.43575499898424</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:38.272278Z</time>
-		<humedad>21.9123008401646</humedad>
-		<presion>21.51786664759584</presion>
-		<temperatura>91.18661725287461</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:39.333721Z</time>
-		<humedad>96.67230243845312</humedad>
-		<presion>41.20580368395652</presion>
-		<temperatura>8.094344808387167</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:40.348124Z</time>
-		<humedad>4.868710020018019</humedad>
-		<presion>18.37453618176198</presion>
-		<temperatura>68.75947647371288</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:41.363682Z</time>
-		<humedad>64.83381703065106</humedad>
-		<presion>10.920205638840297</presion>
-		<temperatura>98.78074238092618</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:42.422203Z</time>
-		<humedad>47.20833424417563</humedad>
-		<presion>27.98389904194871</presion>
-		<temperatura>12.866428734492397</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:43.435822Z</time>
-		<humedad>52.15949727957159</humedad>
-		<presion>23.56201732274763</presion>
-		<temperatura>40.342017891796246</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:44.455063Z</time>
-		<humedad>93.3672660380513</humedad>
-		<presion>85.54536713710236</presion>
-		<temperatura>40.04386153139225</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:45.516558Z</time>
-		<humedad>46.446307629296</humedad>
-		<presion>32.11767332459723</presion>
-		<temperatura>73.91971380764366</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:46.527800Z</time>
-		<humedad>45.35424494570012</humedad>
-		<presion>89.41058070188704</presion>
-		<temperatura>20.683723422719368</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:47.544670Z</time>
-		<humedad>89.46523839777197</humedad>
-		<presion>87.13535097202</presion>
-		<temperatura>11.056227305142608</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:48.603638Z</time>
-		<humedad>31.68976540728041</humedad>
-		<presion>76.6386113053098</presion>
-		<temperatura>27.92410293734595</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:49.615731Z</time>
-		<humedad>25.415989796628125</humedad>
-		<presion>53.07782389781094</presion>
-		<temperatura>59.79160378939484</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:50.627015Z</time>
-		<humedad>62.492199475455145</humedad>
-		<presion>68.29082372413227</presion>
-		<temperatura>55.98703031698405</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:51.691079Z</time>
-		<humedad>99.83739563553762</humedad>
-		<presion>33.00077067304584</presion>
-		<temperatura>20.611605979699878</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:52.702764Z</time>
-		<humedad>91.87737311243359</humedad>
-		<presion>24.302310993452704</presion>
-		<temperatura>30.815118629737125</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:53.714974Z</time>
-		<humedad>54.872667469032876</humedad>
-		<presion>66.30271710433814</presion>
-		<temperatura>61.35436465181249</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:54.773735Z</time>
-		<humedad>48.3141383132082</humedad>
-		<presion>64.16348042010831</presion>
-		<temperatura>53.45791779111983</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:55.786932Z</time>
-		<humedad>58.95686980238278</humedad>
-		<presion>42.85787778051699</presion>
-		<temperatura>61.89834437670477</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:56.811770Z</time>
-		<humedad>16.92396907783217</humedad>
-		<presion>49.00584933390413</presion>
-		<temperatura>96.81030767460042</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:57.869712Z</time>
-		<humedad>58.58389309936178</humedad>
-		<presion>61.47877113863529</presion>
-		<temperatura>92.0941049867053</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:58.894036Z</time>
-		<humedad>64.80042616853194</humedad>
-		<presion>87.29955247841906</presion>
-		<temperatura>39.97661746870884</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:29:59.910219Z</time>
-		<humedad>10.7295229344478</humedad>
-		<presion>63.412631947371935</presion>
-		<temperatura>57.32518346266195</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:00.981418Z</time>
-		<humedad>5.1225837493986575</humedad>
-		<presion>64.12473096744975</presion>
-		<temperatura>29.420326135339103</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:01.995040Z</time>
-		<humedad>26.892400908738278</humedad>
-		<presion>70.18800420691768</presion>
-		<temperatura>17.210470992121895</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:03.019424Z</time>
-		<humedad>98.44893491362593</humedad>
-		<presion>13.913931239210342</presion>
-		<temperatura>24.089439312447347</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:04.075130Z</time>
-		<humedad>46.417331798960326</humedad>
-		<presion>33.762144035033614</presion>
-		<temperatura>40.685057210924235</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:05.097404Z</time>
-		<humedad>80.77422195823688</humedad>
-		<presion>13.6222999938997</presion>
-		<temperatura>27.899803819435377</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:06.108359Z</time>
-		<humedad>65.91227526256922</humedad>
-		<presion>85.78871832809666</presion>
-		<temperatura>2.4220485491809884</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:07.171058Z</time>
-		<humedad>29.335920034251252</humedad>
-		<presion>6.301522272601801</presion>
-		<temperatura>9.49470258495262</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:08.184451Z</time>
-		<humedad>0.8434506292474331</humedad>
-		<presion>91.109356523585</presion>
-		<temperatura>83.62729519218449</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:09.210024Z</time>
-		<humedad>72.01717949762552</humedad>
-		<presion>38.12026262314837</presion>
-		<temperatura>54.074662431721535</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:10.269828Z</time>
-		<humedad>13.371007254682798</humedad>
-		<presion>60.793515761856675</presion>
-		<temperatura>77.78060702665474</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:11.293511Z</time>
-		<humedad>35.544073866451875</humedad>
-		<presion>2.2257479264371938</presion>
-		<temperatura>80.95906618443654</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:12.304913Z</time>
-		<humedad>70.85599680429088</humedad>
-		<presion>50.70865782581109</presion>
-		<temperatura>15.835603575409351</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:13.361336Z</time>
-		<humedad>72.33180414947361</humedad>
-		<presion>84.5753448197951</presion>
-		<temperatura>41.51498764507642</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:14.369965Z</time>
-		<humedad>69.51393690652368</humedad>
-		<presion>32.50559084093696</presion>
-		<temperatura>16.49636605106459</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:15.382031Z</time>
-		<humedad>60.93926237845467</humedad>
-		<presion>89.09419581567664</presion>
-		<temperatura>66.98168081889003</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:16.441019Z</time>
-		<humedad>41.344004010277814</humedad>
-		<presion>29.571333298895375</presion>
-		<temperatura>60.077476647801134</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:17.456572Z</time>
-		<humedad>74.31908763367807</humedad>
-		<presion>45.30307966517655</presion>
-		<temperatura>86.86768983594935</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:18.467310Z</time>
-		<humedad>24.988885095522363</humedad>
-		<presion>43.796917551250914</presion>
-		<temperatura>60.56044078336793</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:19.528743Z</time>
-		<humedad>26.337736626669404</humedad>
-		<presion>96.96341596561948</presion>
-		<temperatura>49.806141884325164</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:20.537930Z</time>
-		<humedad>11.35592631326916</humedad>
-		<presion>55.990771790672525</presion>
-		<temperatura>62.923040656973896</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:21.550820Z</time>
-		<humedad>43.43669341856506</humedad>
-		<presion>50.18561114149502</presion>
-		<temperatura>65.32382110192565</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:22.614700Z</time>
-		<humedad>24.135467930779974</humedad>
-		<presion>27.770630273876407</presion>
-		<temperatura>69.584094224754</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:23.630221Z</time>
-		<humedad>94.88318458704698</humedad>
-		<presion>11.03791667761389</presion>
-		<temperatura>8.116732367189194</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:24.641990Z</time>
-		<humedad>21.642465686279944</humedad>
-		<presion>85.83721710215464</presion>
-		<temperatura>55.5846383600888</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:25.700033Z</time>
-		<humedad>18.880611361306464</humedad>
-		<presion>72.82857259267307</presion>
-		<temperatura>81.86606520571219</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:26.713587Z</time>
-		<humedad>65.33272766428752</humedad>
-		<presion>88.75285501902246</presion>
-		<temperatura>44.00638225786396</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:27.724065Z</time>
-		<humedad>16.923805453332562</humedad>
-		<presion>71.9788733963749</presion>
-		<temperatura>61.7549496356649</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:28.783196Z</time>
-		<humedad>85.55725711985563</humedad>
-		<presion>94.91203936826116</presion>
-		<temperatura>86.20627665412816</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:29.793137Z</time>
-		<humedad>83.89796556660426</humedad>
-		<presion>46.069063470827324</presion>
-		<temperatura>59.42442004806673</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:30.807702Z</time>
-		<humedad>9.990691608446822</humedad>
-		<presion>42.24985581469344</presion>
-		<temperatura>14.332650850803862</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:31.866516Z</time>
-		<humedad>46.9380707073205</humedad>
-		<presion>80.38407729167713</presion>
-		<temperatura>71.05695205675732</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:32.880614Z</time>
-		<humedad>25.553190838167616</humedad>
-		<presion>71.00265256551627</presion>
-		<temperatura>51.344450277268884</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:33.906547Z</time>
-		<humedad>71.37808683512684</humedad>
-		<presion>27.619756787127947</presion>
-		<temperatura>55.9052648395734</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:34.975050Z</time>
-		<humedad>65.43881113617563</humedad>
-		<presion>44.16782453838927</presion>
-		<temperatura>80.11620533097464</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:35.996076Z</time>
-		<humedad>51.90468827053844</humedad>
-		<presion>67.46631012663123</presion>
-		<temperatura>23.826483558937696</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:37.010198Z</time>
-		<humedad>66.05159035796758</humedad>
-		<presion>47.553972783565804</presion>
-		<temperatura>90.63474456351372</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:38.071107Z</time>
-		<humedad>12.360670024596654</humedad>
-		<presion>17.045067780477098</presion>
-		<temperatura>59.047395759196256</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:39.085033Z</time>
-		<humedad>4.353191535013579</humedad>
-		<presion>42.600365168243684</presion>
-		<temperatura>85.25082535092416</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:40.113049Z</time>
-		<humedad>9.667981732968078</humedad>
-		<presion>63.990189714534765</presion>
-		<temperatura>67.67606700325989</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:41.170620Z</time>
-		<humedad>39.905341918968695</humedad>
-		<presion>53.7417502366504</presion>
-		<temperatura>83.86201684878873</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:42.183137Z</time>
-		<humedad>12.40193276956203</humedad>
-		<presion>78.76312021333533</presion>
-		<temperatura>45.676250772626084</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:43.208406Z</time>
-		<humedad>2.768952093352095</humedad>
-		<presion>42.089860562375826</presion>
-		<temperatura>59.6715276654553</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:44.270995Z</time>
-		<humedad>36.45090484366625</humedad>
-		<presion>60.295394477979436</presion>
-		<temperatura>9.389261942508275</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:45.298473Z</time>
-		<humedad>10.202725597572748</humedad>
-		<presion>75.59851072104999</presion>
-		<temperatura>68.64590052687281</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:46.308565Z</time>
-		<humedad>98.459663796962</humedad>
-		<presion>81.67043686877476</presion>
-		<temperatura>44.56082398092253</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:47.366412Z</time>
-		<humedad>47.99168288030087</humedad>
-		<presion>51.85091025856343</presion>
-		<temperatura>92.48921853369076</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:48.381734Z</time>
-		<humedad>61.57044278783674</humedad>
-		<presion>94.01773998234691</presion>
-		<temperatura>65.40492228491743</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:49.393447Z</time>
-		<humedad>21.115319863448313</humedad>
-		<presion>42.47445656290117</presion>
-		<temperatura>10.949427920651566</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:50.455686Z</time>
-		<humedad>50.14165325102067</humedad>
-		<presion>60.92279228978692</presion>
-		<temperatura>60.98325585482133</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:51.478749Z</time>
-		<humedad>69.72181063623293</humedad>
-		<presion>29.602432337473918</presion>
-		<temperatura>73.10369720287578</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:52.494936Z</time>
-		<humedad>0.31804705235169983</humedad>
-		<presion>29.06490698926396</presion>
-		<temperatura>8.865281458798524</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:53.553537Z</time>
-		<humedad>71.93788470276337</humedad>
-		<presion>44.439702026614434</presion>
-		<temperatura>61.96496318734128</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:54.564429Z</time>
-		<humedad>86.9992138316432</humedad>
-		<presion>16.27124153694346</presion>
-		<temperatura>86.530952797928</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:55.588344Z</time>
-		<humedad>90.58754161797094</humedad>
-		<presion>31.287340580799906</presion>
-		<temperatura>81.18473346970883</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:56.646685Z</time>
-		<humedad>33.46612759677697</humedad>
-		<presion>7.271154293676096</presion>
-		<temperatura>80.03825671942505</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:57.672756Z</time>
-		<humedad>71.96127306119729</humedad>
-		<presion>62.83853771215222</presion>
-		<temperatura>98.43056303598529</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:58.687859Z</time>
-		<humedad>24.00960084089936</humedad>
-		<presion>76.77460987198947</presion>
-		<temperatura>56.233440001283775</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:30:59.746138Z</time>
-		<humedad>65.61729313776858</humedad>
-		<presion>84.48327270450463</presion>
-		<temperatura>9.997017496143112</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:00.757304Z</time>
-		<humedad>94.60670546233145</humedad>
-		<presion>85.28149347241062</presion>
-		<temperatura>85.83895557952206</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:01.786528Z</time>
-		<humedad>37.39049971451692</humedad>
-		<presion>54.37100199038674</presion>
-		<temperatura>79.22358819880958</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:02.860660Z</time>
-		<humedad>7.850789568260641</humedad>
-		<presion>90.73371950778667</presion>
-		<temperatura>72.42843434931343</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:03.889002Z</time>
-		<humedad>28.239903678335622</humedad>
-		<presion>72.9320855297853</presion>
-		<temperatura>15.063749780746804</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:05.145939Z</time>
-		<humedad>14.998526066502926</humedad>
-		<presion>38.317131063613985</presion>
-		<temperatura>92.54281178350503</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:06.171023Z</time>
-		<humedad>74.6384140068657</humedad>
-		<presion>73.50895414125206</presion>
-		<temperatura>15.152138533845584</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:07.230762Z</time>
-		<humedad>31.84219070359421</humedad>
-		<presion>38.69613750399743</presion>
-		<temperatura>79.95023513953532</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:08.259289Z</time>
-		<humedad>15.921316582258516</humedad>
-		<presion>23.536108871832084</presion>
-		<temperatura>54.577747333662884</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:09.299338Z</time>
-		<humedad>18.80010728198378</humedad>
-		<presion>63.00643155950172</presion>
-		<temperatura>1.1699936702053715</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:10.358133Z</time>
-		<humedad>55.36787968354072</humedad>
-		<presion>16.789661602199445</presion>
-		<temperatura>50.28448625094298</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:11.373257Z</time>
-		<humedad>19.82090452854248</humedad>
-		<presion>29.68415290823472</presion>
-		<temperatura>81.43613999414477</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:12.388177Z</time>
-		<humedad>35.1522250062798</humedad>
-		<presion>92.97885372461604</presion>
-		<temperatura>34.412889745264906</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:13.440409Z</time>
-		<humedad>77.83780427238595</humedad>
-		<presion>8.988941409724372</presion>
-		<temperatura>9.749640308395369</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:14.447450Z</time>
-		<humedad>79.38566976551607</humedad>
-		<presion>75.32529627370394</presion>
-		<temperatura>24.36057224240933</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:15.465274Z</time>
-		<humedad>23.150995672121468</humedad>
-		<presion>77.61067654564668</presion>
-		<temperatura>38.577300137690294</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:16.529451Z</time>
-		<humedad>72.30143850626936</humedad>
-		<presion>24.219980087701444</presion>
-		<temperatura>10.938823357556371</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:17.554868Z</time>
-		<humedad>85.55832553205302</humedad>
-		<presion>18.778395927512502</presion>
-		<temperatura>96.57807194433423</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:18.565976Z</time>
-		<humedad>87.37514681551419</humedad>
-		<presion>44.61297130979053</presion>
-		<temperatura>25.379838724341052</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:19.624290Z</time>
-		<humedad>64.07902834450394</humedad>
-		<presion>7.528384482539496</presion>
-		<temperatura>58.196790057571135</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:20.639939Z</time>
-		<humedad>38.419954878875295</humedad>
-		<presion>73.79308608344839</presion>
-		<temperatura>94.82660960791095</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:21.652980Z</time>
-		<humedad>60.5569367095333</humedad>
-		<presion>17.36405278120907</presion>
-		<temperatura>99.46175732282543</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:22.713228Z</time>
-		<humedad>83.18919398789065</humedad>
-		<presion>90.08280674756296</presion>
-		<temperatura>14.010023685681228</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:23.723788Z</time>
-		<humedad>4.001029984660509</humedad>
-		<presion>8.369781032353863</presion>
-		<temperatura>99.42185603417586</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:24.735622Z</time>
-		<humedad>90.12386136014177</humedad>
-		<presion>51.173739649927874</presion>
-		<temperatura>41.446061785344746</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:25.794063Z</time>
-		<humedad>52.58243757835827</humedad>
-		<presion>88.39989089270746</presion>
-		<temperatura>94.4557824746783</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:26.809071Z</time>
-		<humedad>44.08075105970632</humedad>
-		<presion>10.911080992288602</presion>
-		<temperatura>80.38296755014944</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:27.823711Z</time>
-		<humedad>73.80323742202914</humedad>
-		<presion>6.0915125398114505</presion>
-		<temperatura>55.136658797921164</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:28.877475Z</time>
-		<humedad>11.189342917481415</humedad>
-		<presion>61.324526685872</presion>
-		<temperatura>4.205600690044231</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:29.887625Z</time>
-		<humedad>82.01455297719953</humedad>
-		<presion>31.71747773167294</presion>
-		<temperatura>5.50626448173891</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:30.898102Z</time>
-		<humedad>21.916859567736026</humedad>
-		<presion>39.567923758652135</presion>
-		<temperatura>67.55962076309852</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:31.955665Z</time>
-		<humedad>45.71274849636172</humedad>
-		<presion>18.096835347515405</presion>
-		<temperatura>83.91408079224286</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:32.967745Z</time>
-		<humedad>44.00087476997236</humedad>
-		<presion>3.3295122044954772</presion>
-		<temperatura>89.32737996743263</temperatura>
-	</mesura>
-	<mesura nom="sensor">
-		<time>2022-03-17T22:31:33.981978Z</time>
-		<humedad>28.131810146589864</humedad>
-		<presion>49.567509630593634</presion>
-		<temperatura>8.112003198889662</temperatura>
+		<time>2022-03-17T23:13:27.740253Z</time>
+		<humedad>63.92721597046523</humedad>
+		<presion>11.343089564983666</presion>
+		<temperatura>53.74616888495808</temperatura>
 	</mesura>
 </data>

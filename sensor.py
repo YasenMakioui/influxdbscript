@@ -11,6 +11,7 @@ client = InfluxDBClient('localhost', 8086, 'admin', 'Password1', 'mydb')
 def start_sensor():
     while True:
         time.sleep(1)
+
         payload = {
             "measurement": "sensor",
             "time": datetime.datetime.now(),

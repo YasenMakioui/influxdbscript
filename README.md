@@ -45,7 +45,7 @@ $ python3 get_json.py
 ### get_xml
 Ejecutar el script y pasar como parametro el nombre donde se guardan los datos. En caso de no especificarse se guardan en sensor_data.xml
 ```bash
-$ python3 get_xml.py prueba.xml
+$ python3 get_xml.py data.xml
 ```
 o
 ```bash
