@@ -51,7 +51,7 @@ o
 ```bash
 $ python3 get_xml.py
 ```
-##Pruebas
+## Pruebas
 Para simular un sensor y comenzar a usar los scripts simplemente hay que ejecutar sensor.py
 ````bash
 $ python3 sensor.py
