@@ -1,5 +1,8 @@
 # influxdbscript
-
+##Paquetes requeridos
+````bash
+$ pip install influxdb
+````
 ## Iniciar el entorno con docker
 ````bash
 $ docker-compose up
@@ -48,3 +51,9 @@ o
 ```bash
 $ python3 get_xml.py
 ```
+##Pruebas
+Para simular un sensor y comenzar a usar los scripts simplemente hay que ejecutar sensor.py
+````bash
+$ python3 sensor.py
+````
+Una vez iniciado el script, este enviara datos cada 1s. Se puede cambiar el valor para simular una cantidad de datos mas alta
