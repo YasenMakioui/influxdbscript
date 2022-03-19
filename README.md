@@ -1,5 +1,5 @@
 # influxdbscript
-##Paquetes requeridos
+## Paquetes requeridos
 ````bash
 $ pip install influxdb
 ````
